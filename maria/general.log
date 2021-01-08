@@ -1,0 +1,21 @@
+[2020-12-10 12:54:04 INFO]: install::decompress decompress maria/data_dump.tar.gz 
+[2020-12-10 12:54:04 INFO]: install::decompress removing data_dump.tar.gz 
+[2020-12-10 12:54:04 INFO]: install::decompress changing directory back
+[2020-12-10 12:54:21 INFO]: install::compress compressing maria/data_dump 
+[2020-12-10 12:54:21 INFO]: install::compress removing data_dump 
+[2020-12-10 12:54:21 INFO]: install::compress changing directory back
+[2020-12-10 12:57:57 INFO]: install::decompress decompress maria/data_dump.tar.gz 
+[2020-12-10 12:57:57 INFO]: install::decompress removing data_dump.tar.gz 
+[2020-12-10 12:57:57 INFO]: install::decompress changing directory back
+[2020-12-10 16:13:29 INFO]: install::decompress decompress maria/data_dump.tar.gz 
+[2020-12-10 16:13:29 INFO]: install::decompress removing data_dump.tar.gz 
+[2020-12-10 16:13:29 INFO]: install::decompress changing directory back
+[2020-12-10 16:14:51 INFO]: install::compress compressing maria/data_dump 
+[2020-12-10 16:14:51 INFO]: install::compress removing data_dump 
+[2020-12-10 16:14:51 INFO]: install::compress changing directory back
+[2020-12-10 16:15:04 INFO]: install::decompress decompress maria/data_dump.tar.gz 
+[2020-12-10 16:15:04 INFO]: install::decompress removing data_dump.tar.gz 
+[2020-12-10 16:15:04 INFO]: install::decompress changing directory back
+[2020-12-10 16:15:57 INFO]: install::compress compressing maria/data_dump 
+[2020-12-10 16:15:57 INFO]: install::compress removing data_dump 
+[2020-12-10 16:15:57 INFO]: install::compress changing directory back
